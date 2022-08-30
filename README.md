@@ -1,1 +1,1 @@
-day zero at ALX 
+day zero at ALX updated read me 
